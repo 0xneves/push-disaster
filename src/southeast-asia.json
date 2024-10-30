@@ -1,0 +1,55 @@
+{
+    "Brunei": [
+        {"city": "Bandar Seri Begawan", "coordinates": [4.9031, 114.9398]},
+        {"city": "Tutong", "coordinates": [4.8131, 114.6533]},
+        {"city": "Seria", "coordinates": [4.6064, 114.3248]}
+    ],
+    "Cambodia": [
+        {"city": "Phnom Penh", "coordinates": [11.5625, 104.916]},
+        {"city": "Siem Reap", "coordinates": [13.3633, 103.8564]},
+        {"city": "Battambang", "coordinates": [13.0957, 103.2022]}
+    ],
+    "East Timor (Timor-Leste)": [
+        {"city": "Dili", "coordinates": [-8.5586, 125.5736]},
+        {"city": "Baucau", "coordinates": [-8.4759, 126.4561]},
+        {"city": "Maliana", "coordinates": [-8.9916, 125.2192]}
+    ],
+    "Indonesia": [
+        {"city": "Jakarta", "coordinates": [-6.2088, 106.8456]},
+        {"city": "Surabaya", "coordinates": [-7.2458, 112.7378]},
+        {"city": "Makassar", "coordinates": [-5.1477, 119.4327]}
+    ],
+    "Laos": [
+        {"city": "Vientiane", "coordinates": [17.9757, 102.6309]},
+        {"city": "Luang Prabang", "coordinates": [19.8856, 102.1346]},
+        {"city": "Pakse", "coordinates": [15.1183, 105.7834]}
+    ],
+    "Malaysia": [
+        {"city": "Kuala Lumpur", "coordinates": [3.139, 101.6869]},
+        {"city": "Penang", "coordinates": [5.4141, 100.3288]},
+        {"city": "Kota Kinabalu", "coordinates": [5.9804, 116.0735]}
+    ],
+    "Myanmar (Burma)": [
+        {"city": "Yangon", "coordinates": [16.8661, 96.1951]},
+        {"city": "Mandalay", "coordinates": [21.9162, 96.1345]},
+        {"city": "Bago", "coordinates": [17.3369, 96.5165]}
+    ],
+    "Philippines": [
+        {"city": "Manila", "coordinates": [14.5995, 120.9842]},
+        {"city": "Cebu", "coordinates": [10.3157, 123.8854]},
+        {"city": "Tacloban", "coordinates": [11.2433, 125.0034]}
+    ],
+    "Singapore": [
+        {"city": "Singapore", "coordinates": [1.3521, 103.8198]}
+    ],
+    "Thailand": [
+        {"city": "Bangkok", "coordinates": [13.7563, 100.5018]},
+        {"city": "Chiang Mai", "coordinates": [18.7883, 98.9853]},
+        {"city": "Phuket", "coordinates": [7.8804, 98.3923]}
+    ],
+    "Vietnam": [
+        {"city": "Ho Chi Minh City", "coordinates": [10.8231, 106.6297]},
+        {"city": "Hanoi", "coordinates": [21.0285, 105.8542]},
+        {"city": "Da Nang", "coordinates": [16.0544, 108.2022]}
+    ]
+}

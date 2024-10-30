@@ -1,0 +1,18 @@
+{
+  "name": "push-disasters",
+  "version": "1.0.0",
+  "scripts": {
+    "create-pkey": "node src/create-pkey.js",
+    "start": "ts-node src/notification.ts"
+  },
+  "dependencies": {
+    "@pushprotocol/restapi": "^1.7.28",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
